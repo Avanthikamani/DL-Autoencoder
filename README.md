@@ -1,3 +1,4 @@
+
 # DL- Convolutional Autoencoder for Image Denoising
 
 ## AIM
@@ -6,6 +7,12 @@ To develop a convolutional autoencoder for image denoising application.
 ## Problem Statement and Dataset
 
 Noise is a common issue in real-world image data, which affects performance in image analysis tasks. An autoencoder can be trained to remove noise from images, effectively learning compressed representations that help in reconstruction. The MNIST dataset (28x28 grayscale handwritten digits) will be used for this task. Gaussian noise will be added to simulate real-world noisy data.
+
+
+
+
+<img width="826" height="596" alt="Screenshot 2026-05-23 213454" src="https://github.com/user-attachments/assets/2c75ca16-c979-46a4-a5bc-db8a66c2fe9b" />
+
 
 
 
